@@ -2,7 +2,7 @@
 server.port=9999
 server.context-path=/api
 
-# Mongo Server
+# MongoDB Server
 spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
 spring.data.mongodb.database=demoDB
