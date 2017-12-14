@@ -4,7 +4,7 @@
  *
  * @author: Dhaval Joshi.
  */
-package app.djxlab.springbootdemo.service;
+package app.djxlab.springbootdemo.repository.impl;
 
 import java.util.ArrayList;
 import java.util.List;
